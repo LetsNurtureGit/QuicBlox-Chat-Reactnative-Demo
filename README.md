@@ -1,2 +1,2 @@
 # QuicBlox-Chat-Reactnative-Demo
-Quickblox chat demo for react native app
+Quickblox chat demo project for react native app.
